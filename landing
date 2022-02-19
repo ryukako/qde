@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Rika Ko </title>
+	<link rel="stylesheet" href ="css/index.css" type="text/css">
+<!--Favicon-->
+	<link href="images/tabicon.png" rel="shortcut icon" type="image/x-icon">
+</head>
+
+<body>
+<!-- Top Part -->
+	<div class="header" id="header"> 
+		<!-- <p class="top"> <a href="index.html"><i>QDE</i> </a> </p> -->
+		<h1> QDE </h1>
+	</div>
+
+<!-- Body -->
+	<div class="main">
+		<div class="bigwords">
+			<p> Providing full suite conversational interface design solutions </p>
+		</div>
+		<div class="smallerwords">
+			<p> check back soon. </p>
+		</div>
+	</div>
+
+<!-- Navigation -->
+	<div class="navigation">
+		<a href="mailto:lwhittington@quirozdesign.com"> Talk to us </a>
+		<a href="https://www.linkedin.com/in/rikako" target="_blank"> linkedin </a>
+		<!-- <a href="contact.html"> contact </a> -->
+	</div>
+</div>
+
+<!-- Bottom Stuff -->
+<!-- <p class= "myinfo"> 2021 Rika Ko. <u><a href="contact.html">Hi!</a></u></p> -->
+
+</body>
+</html>
