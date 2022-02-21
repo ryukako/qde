@@ -38,8 +38,7 @@ h1 {
 
 h2 {
 	font-size: 1.5rem;
-	margin-top: 0;
-	margin-bottom: 32px;
+	margin-bottom: 80px;
 }
 
 
@@ -103,6 +102,6 @@ footer {
 	h2 {
 		font-size: 2rem;
 		margin-top: -16px;
-		margin-bottom: 60px;
+		margin-bottom: 188px;
 	}
 }
