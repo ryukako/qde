@@ -38,7 +38,7 @@ h1 {
 
 h2 {
 	font-size: 1.5rem;
-	margin-bottom: 80px;
+	margin-bottom: 10vh;
 }
 
 
@@ -93,7 +93,14 @@ footer {
 	margin-bottom: 8px;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (orientation: landscape){
+	h2{
+		font-size: 1.5rem;
+		margin-bottom: 5vh;
+	}
+}
+
+@media screen and (min-width: 768px) and (orientation: portrait) {
 	h1 {
 		margin-top: 25vh;
 		font-size: 10rem;
@@ -102,6 +109,19 @@ footer {
 	h2 {
 		font-size: 2rem;
 		margin-top: -16px;
-		margin-bottom: 188px;
+		margin-bottom: 20vh;
+	}
+}
+
+@media screen and (min-width: 1024px) and (orientation: landscape) {
+	h1 {
+		margin-top: 25vh;
+		font-size: 10rem;
+	}
+
+	h2 {
+		font-size: 2rem;
+		margin-top: -16px;
+		margin-bottom: 20vh;
 	}
 }
